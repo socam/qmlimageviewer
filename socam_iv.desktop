@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Socam Image Viewer
+Categories=Applications;
+Exec=/usr/bin/qmlviewer /opt/socam/socam_iv.qml
+Icon=icons-Applications-photos
+X-Desktop-File-Install-Version=0.20
